@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Test output, logs
+*.log
+*.out
+*.tmp
+
+# Model outputs and results
+results/
+
+# Environment files
+.env
+*.env
+
+# API Keys (if ever added locally)
+config.py
+secrets.json
+
+# PyCharm and JetBrains IDE settings
+.idea/
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage.xml
